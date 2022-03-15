@@ -1,0 +1,57 @@
+.button-4{
+    height: 768px;
+    width: 1024px;
+    background-image:url(https://psv4.userapi.com/c536436/u548859487/docs/d51/898b35c50893/2.png?extra=4masrz-dHL1E7p0fwCjeWsHzrkVTJgxmb0yzz7PSTmhp1UuDIRC2_WfOEtky60yMgxcdf5XD-trqcT60tzqK2umktsRwbhKlCBNyhk7D8C132vPrfz-TQHCZ6P7DwY5hVv-o_hVLsyi5WP5nlOOl9HLM28I;
+    )}
+.button-5{
+    padding-top: 100px;
+    padding-left: 400px;
+    display:inline;
+}
+.button-6{
+    width: 200px;
+    height: 200px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15%;
+    background-color: white;
+    font-size: 18px; 
+    
+}
+.title{
+    padding-top: 100px;
+    padding-left: 300px;
+    color: black;
+    font-size: small;
+}
+.brend{
+    
+    padding-left: 380px;
+    color: black; 
+}
+.brend a{
+    font-weight: bold;
+}
+.button-8{
+    width: 250px;
+    height: 150px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 15%;
+    background-color: white; 
+    
+}
+.table2{
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    
+}
+.table1{
+    float: left;
+    padding-left: 350px;
+    padding-top: 2px;
+    
+}
+.container-3{
+    padding-top: 100px;
+}

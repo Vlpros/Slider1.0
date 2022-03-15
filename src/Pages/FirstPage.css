@@ -1,0 +1,35 @@
+.container{
+    background-image:url(https://psv4.userapi.com/c536436/u548859487/docs/d23/c663a3e83d6f/1.png?extra=xPBFqRM-e_iOb-wVoIfZ4vz0GblY4EUW0M2W171MSgM3Dj4VBkA57GZqZtxNYKnD4T5bnCWW0GuriC1aNXLtl9cXd8bCKNKA7aS6zdrHts-NCL57QrznwEuNWqlPr-jU5TyvX8rWH-LPGcSjTIDY_HU5YfU) ;
+    height: 768px;
+    width: 1024px;
+    color: black;
+  font-size: 75px; 
+  line-height: 70px;
+}
+h1{
+    font-size: medium;
+    padding-left: 10px;
+    
+}
+.content{
+    padding-top: 150px;
+    
+    
+}
+.button{
+    background-color:palevioletred ;
+    height: 50px;
+    width: 200px;
+    border-radius: 22%;
+    border-width: 3px;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float:right;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    font-style:inherit;
+
+}
+.content a{
+font-weight: bold;
+}
